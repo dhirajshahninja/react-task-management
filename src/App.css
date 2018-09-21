@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 53px;
+  float: left;
+}
+
+.App-header {
+  background-color: #EFE2BA;
+  height: 90px;
+  padding: 20px;
+  color: white;
+}
+.card-bg{
+  background:#f3f3f4;
+  padding: 20px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
